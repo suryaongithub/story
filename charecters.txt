@@ -1,0 +1,2 @@
+turtle : doesn't like to move much but smart
+rabbit : very nimble and energetic but always takes the inefficient path
